@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project name="E:\Projects\scrapper\PROJECT.clpprj">
+	<settings><PM_URL><![CDATA[E:/Projects/scrapper/]]></PM_URL><PM_HOME_URL><![CDATA[E:/Projects/scrapper/]]></PM_HOME_URL><PM_LIBS><![CDATA[]]></PM_LIBS><PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION><PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR><PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE></settings><removed value=";"/><added value=""/><lastopfiles>
+		<file name="E:\Projects\scrapper\index.php"/>
+		<file name="E:\Projects\scrapper\library\simple_html_dom.php"/>
+	</lastopfiles>
+	<errors version="5.11">
+		<errfile name="E:\Projects\scrapper\library\simple_html_dom.php">
+			<error val="30;1066;31;1066;901;2;"/>
+		</errfile>
+	</errors>
+	<cakedata>
+	</cakedata>
+	<dplmenupath>
+	</dplmenupath><laravael>
+	</laravael><smartyassings>
+	</smartyassings><twigtemplate>
+	</twigtemplate><yiidata>
+	</yiidata>
+	<todoblock>
+	</todoblock>
+	<filescache>
+		<file name="E:\Projects\scrapper\library\simple_html_dom.php" crc="1522179407"/>
+		<file name="E:\Projects\scrapper\index.php" crc="1522182856"/>
+	</filescache>
+</project>
