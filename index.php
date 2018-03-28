@@ -18,7 +18,7 @@
 		$resultsArray[$index]["flight"]   = $part1[$i]->children(2)->plaintext;
 		$resultsArray[$index]["arrival"]  = $part2[$i]->children(0)->plaintext;
 		$resultsArray[$index]["terminal"] = $part2[$i]->children(2)->plaintext;
-		$resultsArray[$index]["status"]   = $part2[$i]->children(3)->plaintext;
+		$resultsArray[$index]["status"]   = $part2[$i]->children(4)->plaintext;
 		$index = $i;
 	}
 	echo json_encode($resultsArray);
